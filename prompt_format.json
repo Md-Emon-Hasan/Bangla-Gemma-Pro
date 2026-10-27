@@ -1,0 +1,7 @@
+{
+  "chat_template": "model default (thinking disabled)",
+  "system": "আপনি একজন সহায়ক সহকারী। সবসময় স্পষ্ট ও সঠিক বাংলায় উত্তর দিন।",
+  "rendered_example": "<|im_start|>system\nআপনি একজন সহায়ক সহকারী। সবসময় স্পষ্ট ও সঠিক বাংলায় উত্তর দিন।<|im_end|>\n<|im_start|>user\nUSERMARK<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\nASSISTANTMARK<|im_end|>\n",
+  "instruction_part": "<|im_start|>user\n",
+  "response_part": "<|im_start|>assistant\n"
+}
